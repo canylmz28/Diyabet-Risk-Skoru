@@ -1,4 +1,4 @@
-# Diyabet-Risk-Skoru
+# Diyabet Risk Skoru
 
 # DİYABET
 
