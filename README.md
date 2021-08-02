@@ -41,5 +41,3 @@ Risk grubu değişkeni ile target değişkeni incelenmiştir. Risk grubuna göre
 Risk grubu etiketi incelendiği zaman 24.031 kişi düşük risk grubunda, 7.961 kişi orta risk grubunda ve 7.644 kişi ise yüksek risk grubundadır. Risk gruplarının diyabet olup olmama durumuna göre gruplanmış hali aşağıdaki şekilde gösterilmiştir. 
 
 ![image](https://user-images.githubusercontent.com/71662622/127652805-5afe90f0-846b-4fb9-b024-ba5e9eaeb0aa.png)
-
- 
